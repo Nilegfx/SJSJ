@@ -65,6 +65,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 * [D3.js](/glossary/D3JS.md): a library for manipulating documents based on data.
 * [DOM](/glossary/DOM.md): a platform- and language-neutral interface that allow programs and scripts to dynamically access and update the content, structure and style of documents.
+* [Dojo](/glossary/Dojo.md):A JavaScript toolkit that saves you time and scales with your development process. Provides everything you need to build a Web app. Language utilities, UI components, and more, all in one place, designed to work together perfectly.
 
 ### E
 
